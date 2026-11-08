@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "inputs": [
+    {
+      "name": "Minecraft-Story-Mode-v1-37-Mali.apk",
+      "size_bytes": 19835664,
+      "sha256": "09acf86a419ae31243fada3817233e8f393f22fd8c986060b65f7c4613f74d55"
+    },
+    {
+      "name": "01774-Minecraft-Story-Mode-v1-37-cache-Mali.zip",
+      "size_bytes": 780425877,
+      "sha256": "a1b6372bd019807d2d784e831a3c89a98b73891bcf8746b14e523b864c7a2783"
+    },
+    {
+      "name": "01774-Minecraft-Story-Mode-v1-37-ep2-Mali-cache.zip",
+      "size_bytes": 694133256,
+      "sha256": "7f3d191adb90eb1c395bfc5b245743e7da6f1cf0ad7acbc3b69ae75013596d1e"
+    },
+    {
+      "name": "01774-Minecraft-Story-Mode-v1-37-ep3-Mali-cache.zip",
+      "size_bytes": 527299662,
+      "sha256": "faf11fc5ae2dcc7809ded129a28d52e16e827574ebe6bc3d6a99ee13b232b18a"
+    },
+    {
+      "name": "01774-Minecraft-Story-Mode-v1-37-ep4-Mali-cache.zip",
+      "size_bytes": 696614761,
+      "sha256": "717e6172bfa17b8c06c0fe0cd758dab08b756d4db573c48eacb4240b7ed7773a"
+    },
+    {
+      "name": "01774-Minecraft-Story-Mode-v1-37-ep5-Mali-cache.zip",
+      "size_bytes": 1256680179,
+      "sha256": "c9f75489f0c7141293c9d00852da5cca81c9af20725e0f04fb85591c6d9581cc"
+    },
+    {
+      "name": "01774-Minecraft-Story-Mode-v1-37-ep6-Mali-cache.zip",
+      "size_bytes": 416109645,
+      "sha256": "87154836ffde6a3495abfd784295eeb5419a157324e4bc3f34e676663b345879"
+    },
+    {
+      "name": "01774-Minecraft-Story-Mode-v1-37-ep7-Mali-cache.zip",
+      "size_bytes": 797878811,
+      "sha256": "a48f5ca1aa2cffe437c08c9527c85e1ab13e73f0f6fc824c6d49e65f977fdb77"
+    },
+    {
+      "name": "01774-Minecraft-Story-Mode-v1-37-ep8-Mali-cache.zip",
+      "size_bytes": 582122903,
+      "sha256": "12aa32e6e81cf19c35abd82a198588fcf17b7a21ea67d037bdea78c2ef3c5b22"
+    }
+  ]
+}
